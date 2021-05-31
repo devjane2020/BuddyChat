@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>BuddyChat | BuddyChat | Activity</title>
+	<link>https://devjane2020.github.io/BuddyChat/members/buddychat/activity/</link>
+	<atom:link href="https://devjane2020.github.io/BuddyChat/members/buddychat/activity/feed/" rel="self" type="application/rss+xml" />
+	<description>Activity feed for BuddyChat.</description>
+	<lastBuildDate>Mon, 31 May 2021 13:29:41 +0000</lastBuildDate>
+	<generator>https://buddypress.org/?v=7.3.0</generator>
+	<language>en-US</language>
+	<ttl>30</ttl>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>2</sy:updateFrequency>
+	
+						<item>
+				<guid isPermaLink="false">c64f5d19eed5ac16b9c4507083bcbbb6</guid>
+				<title>BuddyChat wrote a new post, Making Friends at WorkPlace</title>
+				<link>https://devjane2020.github.io/BuddyChat/?p=52</link>
+				<pubDate>Mon, 31 May 2021 12:20:34 +0000</pubDate>
+
+									<content:encoded><![CDATA[<p>What is Lorem Ipsum?</p>
+<p>Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry&#8217;s standard dummy text ever since the 1500s, when an unknown printer took a [&hellip;]</p>
+]]></content:encoded>
+				
+									<slash:comments>0</slash:comments>
+				
+							</item>
+					<item>
+				<guid isPermaLink="false">b3b283559d15121768d867bae4a63613</guid>
+				<title>BuddyChat wrote a new post, Thank God it&#039;s Thurdays</title>
+				<link>https://devjane2020.github.io/BuddyChat/?p=49</link>
+				<pubDate>Mon, 31 May 2021 12:19:22 +0000</pubDate>
+
+									<content:encoded><![CDATA[<p>What is Lorem Ipsum?</p>
+<p>Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry&#8217;s standard dummy text ever since the 1500s, when an unknown printer took a [&hellip;]</p>
+]]></content:encoded>
+				
+									<slash:comments>0</slash:comments>
+				
+							</item>
+					<item>
+				<guid isPermaLink="false">ce660cb747d98e931ee22d284aa84b89</guid>
+				<title>BuddyChat wrote a new post, How to Have a Work Life Balance</title>
+				<link>https://devjane2020.github.io/BuddyChat/?p=46</link>
+				<pubDate>Mon, 31 May 2021 12:17:40 +0000</pubDate>
+
+									<content:encoded><![CDATA[<p>What is Lorem Ipsum?</p>
+<p>Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry&#8217;s standard dummy text ever since the 1500s, when an unknown printer took a [&hellip;]</p>
+]]></content:encoded>
+				
+									<slash:comments>0</slash:comments>
+				
+							</item>
+					<item>
+				<guid isPermaLink="false">76c0446a5a71f55844a2810f308e6f13</guid>
+				<title>BuddyChat posted a new activity comment</title>
+				<link>https://devjane2020.github.io/BuddyChat/activity/p/6/#acomment-12</link>
+				<pubDate>Mon, 31 May 2021 11:54:20 +0000</pubDate>
+
+									<content:encoded><![CDATA[<div class="rtmedia-activity-container">
+<div class="rtmedia-activity-text">
+					<span>Test!</span>
+				</div>
+<ul class="rtmedia-list rtm-activity-media-list rtmedia-activity-media-length-0 rtm-activity-mixed-list"></ul>
+</div>
+				<strong>In reply to</strong> -
+				<a href="https://devjane2020.github.io/BuddyChat/members/devjane/">Devjane</a> posted an update <a class='bp-suggestions-mention' href='https://devjane2020.github.io/BuddyChat/members/buddychat/' rel='nofollow'>@buddychat</a> Hello friend			]]></content:encoded>
+				
+				
+							</item>
+					<item>
+				<guid isPermaLink="false">47335283d852dd36d4317c204886b7d2</guid>
+				<title>BuddyChat created the group WordPress developer</title>
+				<link>https://devjane2020.github.io/BuddyChat/activity/p/7/</link>
+				<pubDate>Mon, 31 May 2021 11:26:07 +0000</pubDate>
+
+				
+									<slash:comments>0</slash:comments>
+				
+							</item>
+		
+	</channel>
+</rss>

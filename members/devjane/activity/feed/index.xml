@@ -1,0 +1,112 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>BuddyChat | Devjane | Activity</title>
+	<link>https://devjane2020.github.io/BuddyChat/members/devjane/activity/</link>
+	<atom:link href="https://devjane2020.github.io/BuddyChat/members/devjane/activity/feed/" rel="self" type="application/rss+xml" />
+	<description>Activity feed for Devjane.</description>
+	<lastBuildDate>Mon, 31 May 2021 13:29:41 +0000</lastBuildDate>
+	<generator>https://buddypress.org/?v=7.3.0</generator>
+	<language>en-US</language>
+	<ttl>30</ttl>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>2</sy:updateFrequency>
+	
+						<item>
+				<guid isPermaLink="false">e22781e997692cce7d37f5d6114ad59f</guid>
+				<title>Devjane posted an update in the group WordPress developer</title>
+				<link>https://devjane2020.github.io/BuddyChat/activity/p/11/</link>
+				<pubDate>Mon, 31 May 2021 11:46:22 +0000</pubDate>
+
+									<content:encoded><![CDATA[<div class="rtmedia-activity-container">
+<div class="rtmedia-activity-text">
+					<span>Whats new in the tech world?</span>
+				</div>
+<ul class="rtmedia-list rtm-activity-media-list rtmedia-activity-media-length-1 rtm-activity-photo-list">
+<li class="rtmedia-list-item media-type-photo"><a href="https://devjane2020.github.io/BuddyChat/groups/wordpress-developer/media/2/" rel="nofollow ugc">
+<div class="rtmedia-item-thumbnail">
+							<img loading="lazy" alt="pic1" src="https://devjane2020.github.io/BuddyChat/wp-content/uploads/rtMedia/groups/1/2021/05/pic1.jpg" />
+						</div>
+<div class="rtmedia-item-title">
+<p>								pic1</p></div>
+<p>					</a></li>
+</ul>
+</div>
+]]></content:encoded>
+				
+									<slash:comments>0</slash:comments>
+				
+							</item>
+					<item>
+				<guid isPermaLink="false">089de4b798a749b375d74ef63c917d82</guid>
+				<title>Devjane posted an update in the group WordPress developer: Hello World!</title>
+				<link>https://devjane2020.github.io/BuddyChat/activity/p/10/</link>
+				<pubDate>Mon, 31 May 2021 11:38:54 +0000</pubDate>
+
+									<content:encoded><![CDATA[<p>Hello World!</p>
+]]></content:encoded>
+				
+									<slash:comments>0</slash:comments>
+				
+							</item>
+					<item>
+				<guid isPermaLink="false">2460b33048a42e779aab2592281c7abf</guid>
+				<title>Devjane joined the group WordPress developer</title>
+				<link>https://devjane2020.github.io/BuddyChat/activity/p/9/</link>
+				<pubDate>Mon, 31 May 2021 11:37:32 +0000</pubDate>
+
+				
+									<slash:comments>0</slash:comments>
+				
+							</item>
+					<item>
+				<guid isPermaLink="false">9537191a9f739ad9bdd56a48333aa3a8</guid>
+				<title>Devjane and BuddyChat are now friends</title>
+				<link>https://devjane2020.github.io/BuddyChat/activity/p/8/</link>
+				<pubDate>Mon, 31 May 2021 11:36:02 +0000</pubDate>
+
+				
+									<slash:comments>0</slash:comments>
+				
+							</item>
+					<item>
+				<guid isPermaLink="false">5796aa9364cc015879a61f8bb3fd5e22</guid>
+				<title>Devjane posted an update: @buddychat Hello friend</title>
+				<link>https://devjane2020.github.io/BuddyChat/activity/p/6/</link>
+				<pubDate>Mon, 31 May 2021 11:21:22 +0000</pubDate>
+
+									<content:encoded><![CDATA[<p><a href='https://devjane2020.github.io/BuddyChat/members/buddychat/' rel="nofollow ugc">@buddychat</a> Hello friend</p>
+]]></content:encoded>
+				
+									<slash:comments>1</slash:comments>
+				
+							</item>
+					<item>
+				<guid isPermaLink="false">ad737863355f08f413f8675ba372c15c</guid>
+				<title>Devjane changed their profile picture</title>
+				<link>https://devjane2020.github.io/BuddyChat/activity/p/5/</link>
+				<pubDate>Mon, 31 May 2021 11:18:54 +0000</pubDate>
+
+				
+									<slash:comments>0</slash:comments>
+				
+							</item>
+					<item>
+				<guid isPermaLink="false">98d63cda4d055b906370137d7608ce66</guid>
+				<title>Devjane became a registered member</title>
+				<link>https://devjane2020.github.io/BuddyChat/activity/p/3/</link>
+				<pubDate>Mon, 31 May 2021 11:15:40 +0000</pubDate>
+
+				
+									<slash:comments>0</slash:comments>
+				
+							</item>
+		
+	</channel>
+</rss>
